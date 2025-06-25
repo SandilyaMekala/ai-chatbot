@@ -4,3 +4,5 @@ This AI chatbot utilises Mistral model for Text-to-Text generation and stable-di
 These models are deployed from hugging face.
 Eleven labs is used for analyzing voice interactions and converting them as text.
 The code is deployed from Glitch.
+
+Live website: https://closed-bird-duck.glitch.me
